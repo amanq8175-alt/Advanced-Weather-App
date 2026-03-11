@@ -7,7 +7,7 @@ It allows users to search for any city and see current weather conditions in a c
 ## Live Demo
 
 You can check the live demo here:  
-[Live Demo](https://magenta-bublanina-8ae6c3.netlify.app)
+[Weather-App](https://magenta-bublanina-8ae6c3.netlify.app)
 
 
 ## Features
