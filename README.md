@@ -4,7 +4,11 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 
 It allows users to search for any city and see current weather conditions in a clean, responsive interface.
 
----
+## Live Demo
+
+You can check the live demo here:  
+[Live Demo](https://magenta-bublanina-8ae6c3.netlify.app)
+
 
 ## Features
 
@@ -13,12 +17,6 @@ It allows users to search for any city and see current weather conditions in a c
 - 🔹 **Temperature Unit Toggle** – Switch between °C and °F (optional).  
 - 🔹 **Dynamic Background & Icons** – Background changes based on weather type.  
 - 🔹 **Responsive Design** – Works on both mobile and desktop devices.
-
-## Demo
-
-You can check the live demo here:  
-[Live Demo](https://magenta-bublanina-8ae6c3.netlify.app)
-
 
 
 ## Tech Stack
